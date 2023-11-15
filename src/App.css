@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: auto;
+    margin-left: 137px;
+}
+
+.videoContainer {
+  width: 400px;
+}
+
+/* Center the title and button */
+  p {
+    text-align: center;
+    width: 67%;
+  }
+
+  .buttonContainer {
+    text-align: center;
+    width: 10%;
+    margin: auto;
+    margin-top: 4em;
+  }
+ 
